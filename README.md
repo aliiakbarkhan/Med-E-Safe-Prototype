@@ -38,7 +38,8 @@ If you'd like to contribute to the project, feel free to fork the repository and
 ## Contact
 For any questions or feedback, feel free to reach out:
 
-https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
+https://github.com/user-attachments/assets/af7a9530-cbef-4cb4-8f47-7d2a0691824d
+
 
 - **Email**: aliakbarkhana79@gmail.com
 - **LinkedIn**: [aliakbar-khan](https://www.linkedin.com/in/aliakbar-khan)
