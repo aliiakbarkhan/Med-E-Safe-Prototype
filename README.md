@@ -18,9 +18,18 @@ You can view the Figma prototype here: **Sorry but currently it is private**
 ## Screenshots
 Below are some screenshots of the Med-E-Safe prototype:
 
-![Screenshot 2025-03-15 012023](https://github.com/user-attachments/assets/d8c215eb-7d0e-4208-90b4-1a8e7495f2a5)
-![Screenshot 2025-03-15 012039](https://github.com/user-attachments/assets/845e1bf9-a8e8-41ce-8f45-97b8d04a7326)
-![Screenshot 2025-03-15 012051](https://github.com/user-attachments/assets/350404cb-29e5-4534-bb5c-80ff4c46ee54)
+![Screenshot 2025-03-15 012023](https://github.com/aliiakbarkhan/Med-E-Safe-Prototype/blob/main/Screenshots/23.png)
+![Screenshot 2025-03-15 012039](https://github.com/aliiakbarkhan/Med-E-Safe-Prototype/blob/main/Screenshots/24.png)
+![Screenshot 2025-03-15 012039](https://github.com/aliiakbarkhan/Med-E-Safe-Prototype/blob/main/Screenshots/25.png)
+![Screenshot 2025-03-15 012039](https://github.com/aliiakbarkhan/Med-E-Safe-Prototype/blob/main/Screenshots/26.png)
+![Screenshot 2025-03-15 012039](https://github.com/aliiakbarkhan/Med-E-Safe-Prototype/blob/main/Screenshots/27.png)
+![Screenshot 2025-03-15 012039](https://github.com/aliiakbarkhan/Med-E-Safe-Prototype/blob/main/Screenshots/28.png)
+![Screenshot 2025-03-15 012039](https://github.com/aliiakbarkhan/Med-E-Safe-Prototype/blob/main/Screenshots/29.png)
+![Screenshot 2025-03-15 012039](https://github.com/aliiakbarkhan/Med-E-Safe-Prototype/blob/main/Screenshots/30.png)
+![Screenshot 2025-03-15 012039](https://github.com/aliiakbarkhan/Med-E-Safe-Prototype/blob/main/Screenshots/31.png)
+![Screenshot 2025-03-15 012039](https://github.com/aliiakbarkhan/Med-E-Safe-Prototype/blob/main/Screenshots/32.png)
+![Screenshot 2025-03-15 012039](https://github.com/aliiakbarkhan/Med-E-Safe-Prototype/blob/main/Screenshots/33.png)
+![Screenshot 2025-03-15 012039](https://github.com/aliiakbarkhan/Med-E-Safe-Prototype/blob/main/Screenshots/34.png)
 
 
 ## How to Use
