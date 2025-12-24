@@ -1,6 +1,6 @@
 # Med-E-Safe - Figma Application Prototype
 
-<img src ="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dga69c1-435d2c41-7c0b-4080-8657-6ab7aadd6761.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGdhNjljMS00MzVkMmM0MS03YzBiLTQwODAtODY1Ny02YWI3YWFkZDY3NjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YqHG-_9q7YWanB4ftKfKHt1r_Nn0Sbc0yhnvXqFjvEg" />
+<img src ="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dkijgoa-2533954d-1fd4-41ef-8078-56968855c7f4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMmNiZThhNC1mNTVjLTRiNDAtODViYi1kOGUxNDA1ZTdiODQvZGtpamdvYS0yNTMzOTU0ZC0xZmQ0LTQxZWYtODA3OC01Njk2ODg1NWM3ZjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BAA9Vp8mTcxRVXzlXgdWB1MAs9talq9zVmCLDZpmAxQ" />
 
 ## Overview
 Med-E-Safe is a healthcare security application designed to protect patient data through verification and encryption. This repository contains the **Figma prototype** of the Med-E-Safe app, showcasing its user interface, features, and user flow.
